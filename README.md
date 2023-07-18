@@ -4,6 +4,8 @@
 
 A aplicação a seguir consiste em um jogo de xadrez feito puramente em Java utilizando os bons hábitos da programação orientada a objetos, sendo executável em um Prompt Linux ou no Git Bash.
 
+### Exemplo de execução
+![Chess-system-image](https://github.com/LucasRafaell/chess-system-java/assets/99283985/0f4c93ff-de3c-416d-b18d-d7522c71b68d)
 
 
 ### Tecnologias utilizadas
